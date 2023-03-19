@@ -1,0 +1,24 @@
+.header {
+    background-color: #6c584c;
+    color: #adc178;
+    font-size: 75px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.header.small {
+    font-size: 40px;
+
+}
+
+ul,
+ol,
+p {
+    background-color: #f0ead2;
+    color: #a98467;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
